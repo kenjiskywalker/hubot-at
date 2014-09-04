@@ -1,12 +1,12 @@
 {
   "author": "kenjiskywalker",
   "name": "hubot-at",
-  "version": "0.0.1",
-  "description": "Notification at specific time",
+  "version": "0.0.3",
+  "description": "Notification at specific time for hubot",
   "main": "./src/index.coffee",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/kenjiskywalker/hubot-at.git"
+    "url": "https://github.com/kenjiskywalker/hubot-at.git"
   },
   "license": "MIT",
   "keywords": [
