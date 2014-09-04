@@ -10,7 +10,7 @@ Add hubot-at to your `package.json` dependencies.
 
 ```
 "dependencies": {
-  "hubot-at": ">= 0.1"
+  "hubot-at": ">= 0.0.1"
 }
 ```
 

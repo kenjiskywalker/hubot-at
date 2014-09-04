@@ -1,7 +1,7 @@
 {
   "author": "kenjiskywalker",
   "name": "hubot-at",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Notification at specific time",
   "main": "./src/index.coffee",
   "repository": {
