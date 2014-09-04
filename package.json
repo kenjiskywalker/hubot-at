@@ -2,7 +2,7 @@
   "author": "kenjiskywalker",
   "name": "hubot-at",
   "version": "0.0.1",
-  "description": "Notification at specific time",
+  "description": "Notification at specific time for hubot",
   "main": "./src/index.coffee",
   "repository": {
     "type": "git",
