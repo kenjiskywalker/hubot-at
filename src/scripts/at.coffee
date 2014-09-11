@@ -40,7 +40,7 @@ module.exports = (robot) ->
         msg.send "OK. I'll tell you \"#{text}\" at #{date}"
 
         setTimeout(() ->
-          msg.send "#{user}: It's #{date}. Don't forget \"#{text}\""
+          msg.send "@#{user} It's #{date}. Don't forget \"#{text}\""
         , diff)
       else
         msg.send "#{date} is past"

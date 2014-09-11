@@ -29,7 +29,7 @@ hubot> OK. I'll tell you "foo" at HH:MM
 
 ...
 
-hubot> kenjiskywalker: It's HH:MM. Don't forget "foo"
+hubot> @kenjiskywalker It's HH:MM. Don't forget "foo"
 ```
 
 ## See Also
